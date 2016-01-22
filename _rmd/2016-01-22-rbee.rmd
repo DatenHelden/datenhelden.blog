@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Rbee: crowd-based project for collecting R lerning resources"
+author: Michael Rustler @michaelrustler
+published: false
+status: process
+draft: false
+tags: R lerning
+---
+
+Currently the project just started three R bees searching for the most tasty 
+R lerning resources in the web. 
+
+
+**Interested what we have collected up to now?** Visit [r-bee.org](http://delicious.com/r_bee)
